@@ -1,0 +1,7 @@
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\bin\Debug\DiceGameRPG.exe.config
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\bin\Debug\DiceGameRPG.exe
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\bin\Debug\DiceGameRPG.pdb
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\obj\Debug\DiceGameRPG.csproj.AssemblyReference.cache
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\obj\Debug\DiceGameRPG.csproj.CoreCompileInputs.cache
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\obj\Debug\DiceGameRPG.exe
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\DiceGameRPG\obj\Debug\DiceGameRPG.pdb

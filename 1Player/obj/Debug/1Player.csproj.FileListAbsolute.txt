@@ -1,0 +1,7 @@
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\bin\Debug\1Player.exe.config
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\bin\Debug\1Player.exe
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\bin\Debug\1Player.pdb
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\obj\Debug\1Player.csproj.AssemblyReference.cache
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\obj\Debug\1Player.csproj.CoreCompileInputs.cache
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\obj\Debug\1Player.exe
+C:\Users\Beheerder\Software development\Scripting\DiceGameRPG\1Player\obj\Debug\1Player.pdb
